@@ -1,0 +1,40 @@
+GET http://localhost:5000/products
+
+###
+
+POST http://localhost:5000/products
+Content-type: application/json
+
+{
+    "name": "Lodówka",
+    "price": 1300,
+    "description": "Giga pojemna lodówka, nic, tylko kupować!",
+    "quantity": 25,
+    "unit": "sztuki" 
+}
+
+###
+
+POST http://localhost:5000/products
+Content-type: application/json
+
+{
+    "name": "Mikrofalówka",
+    "price": 600,
+    "description": "Dobrze grzeje, popcorn się nie przypala :)",
+    "quantity": 120,
+    "unit": "sztuki" 
+}
+
+###
+
+POST http://localhost:5000/products
+Content-type: application/json
+
+{
+    "name": "Lampa",
+    "price": 50,
+    "description": "Służy do świecenia nocą. Ale świeci też w dzień :o",
+    "quantity": 20,
+    "unit": "sztuki" 
+}

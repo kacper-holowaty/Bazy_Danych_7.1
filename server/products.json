@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Laptop",
+        "price": 3000,
+        "description": "Czarny laptop marki HP",
+        "quantity": 100,
+        "unit": "sztuki"
+    },
+    {
+        "name": "Smartfon",
+        "price": 1200,
+        "description": "iPhone 8, kolor biały, stan: nowy",
+        "quantity": 100,
+        "unit": "sztuki"
+    },
+    {
+        "name": "Pralka",
+        "price": 800,
+        "description": "Cicha pralka, 1500 obrotów na minutę!",
+        "quantity": 80,
+        "unit": "sztuki"
+    },
+    {
+        "name": "Słuchawki",
+        "price": 120,
+        "description": "Czarne słuchawki douszne, bezprzewodowe, marki JBL",
+        "quantity": 200,
+        "unit": "sztuki"
+    },
+    {
+        "name": "Odkurzacz",
+        "price": 420,
+        "description": "Głośny, ale dociera do każdego kąta twojego domu :)",
+        "quantity": 24,
+        "unit": "sztuki"
+    }
+] 
